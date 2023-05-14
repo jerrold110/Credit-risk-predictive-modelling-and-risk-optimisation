@@ -1,0 +1,301 @@
+checking_status,duration,credit_history,purpose,credit_amount,savings_status,employment,installment_commitment,personal_status,other_parties,residence_since,property_magnitude,age,other_payment_plans,housing,existing_credits,job,num_dependents,own_telephone,foreign_worker,class,POD
+'no checking',4,'critical/other existing credit',buy_new_car,3380,'<100','4<=X<7',1,'female div/dep/mar',none,1,'real estate',37,none,own,1,skilled,2,none,yes,good,0.056721686519145297
+'0<=X<200',48,'no credits/all paid',other,18424,'<100','1<=X<4',1,'female div/dep/mar',none,2,'life insurance',32,bank,own,1,'high qualif/self emp/mgmt',1,yes,no,bad,0.957537981311435
+'0<=X<200',12,'existing paid',buy_furniture_equipment,3017,'<100','<1',3,'female div/dep/mar',none,1,'real estate',34,none,rent,1,'high qualif/self emp/mgmt',1,none,yes,good,0.6109226017380408
+'<0',12,'existing paid',buy_used_car,3386,'<100','>=7',3,'male single',none,4,'no known property',35,none,'for free',1,skilled,1,yes,yes,bad,0.11634448966179865
+'no checking',24,'all paid',business,1559,'<100','4<=X<7',4,'male single',none,4,car,50,bank,own,1,skilled,1,yes,yes,good,0.4096942060067044
+'0<=X<200',48,'no credits/all paid',buy_new_car,8358,'500<=X<1000','<1',1,'female div/dep/mar',none,1,car,30,none,own,2,skilled,1,none,yes,good,0.8669118411777296
+'<0',36,'existing paid',buy_used_car,8229,'<100','1<=X<4',2,'male single',none,2,'life insurance',26,none,own,1,skilled,2,none,yes,bad,0.44595900539594024
+'no checking',6,'critical/other existing credit',buy_new_car,2080,'500<=X<1000','1<=X<4',1,'male mar/wid',none,2,car,24,none,own,1,skilled,1,none,yes,good,0.027764230206937253
+'no checking',12,'existing paid',business,1542,'<100','4<=X<7',2,'male single',none,4,car,36,none,own,1,skilled,1,yes,yes,good,0.057041240841771486
+'no checking',48,'existing paid',business,4844,'<100',unemployed,3,'male single',none,2,car,33,bank,rent,1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.6696421220409228
+'<0',21,'existing paid',buy_new_car,3763,'no known savings','4<=X<7',2,'male single','co applicant',2,'real estate',24,none,own,1,'unskilled resident',1,none,no,good,0.15118022977809395
+'no checking',12,'critical/other existing credit',business,1412,'<100','1<=X<4',4,'female div/dep/mar',guarantor,2,'real estate',29,none,own,2,'high qualif/self emp/mgmt',1,yes,yes,good,0.17164803722982772
+'<0',16,'critical/other existing credit',buy_new_car,2625,'<100','>=7',2,'male single',guarantor,4,'life insurance',43,bank,rent,1,skilled,1,yes,yes,bad,0.4033827082833234
+'>=200',18,'existing paid',buy_new_car,1961,'<100','>=7',3,'female div/dep/mar',none,2,car,23,none,own,1,'high qualif/self emp/mgmt',1,none,yes,good,0.40986934568628314
+'<0',36,'delayed previously',business,2145,'<100','4<=X<7',2,'male single',none,1,car,24,none,own,2,skilled,1,yes,yes,bad,0.45509283515228044
+'<0',21,'delayed previously',education,3414,'<100','<1',2,'male single',none,1,'life insurance',26,none,own,2,skilled,1,none,yes,bad,0.541955383795019
+'no checking',36,'existing paid',buy_used_car,4686,'<100','1<=X<4',2,'male single',none,2,'no known property',32,none,'for free',1,'high qualif/self emp/mgmt',1,yes,yes,good,0.060370126405170685
+'<0',18,'existing paid',buy_domestic_appliance,1217,'<100','1<=X<4',4,'male mar/wid',none,3,'real estate',47,none,own,1,'unskilled resident',1,yes,yes,bad,0.45503027099977217
+'<0',48,'existing paid',education,7476,'<100','4<=X<7',4,'male single',none,1,'no known property',50,none,'for free',1,'high qualif/self emp/mgmt',1,yes,yes,good,0.8660407022696749
+'no checking',24,'critical/other existing credit',education,1597,'<100','>=7',4,'male single',none,4,'no known property',54,none,'for free',2,skilled,2,none,yes,good,0.1591156933300551
+'no checking',18,'critical/other existing credit',buy_radio_tv,1169,'no known savings','1<=X<4',4,'male single',none,3,'life insurance',29,none,own,2,skilled,1,yes,yes,good,0.11412052145771791
+'no checking',12,'existing paid',buy_new_car,2133,'no known savings','>=7',4,'female div/dep/mar',none,4,'no known property',52,none,'for free',1,'high qualif/self emp/mgmt',1,yes,yes,good,0.21928122321713653
+'0<=X<200',18,'critical/other existing credit',buy_furniture_equipment,6361,'<100','>=7',2,'male single',none,1,'no known property',41,none,own,1,skilled,1,yes,yes,good,0.2851641509958839
+'<0',12,'existing paid',buy_new_car,1168,'<100','1<=X<4',4,'male mar/wid',none,3,'real estate',27,none,own,1,'unskilled resident',1,none,yes,good,0.48748263232694855
+'no checking',48,'critical/other existing credit',buy_radio_tv,3578,'no known savings','>=7',4,'male single',none,1,'real estate',47,none,own,1,skilled,1,yes,yes,good,0.11743397754544216
+'0<=X<200',24,'existing paid',buy_radio_tv,3092,'100<=X<500','<1',3,'male mar/wid',none,2,car,22,none,rent,1,skilled,1,yes,yes,bad,0.5226006950215245
+'<0',24,'existing paid',buy_furniture_equipment,3149,'<100','<1',4,'male single',none,1,'no known property',22,bank,'for free',1,skilled,1,none,yes,good,0.8871546217497545
+'0<=X<200',21,'critical/other existing credit',buy_furniture_equipment,2745,'>=1000','4<=X<7',3,'male single',none,2,car,32,none,own,2,skilled,1,yes,yes,good,0.1906903111201277
+'0<=X<200',12,'existing paid',buy_radio_tv,1484,'no known savings','1<=X<4',2,'male mar/wid',none,1,'real estate',25,none,own,1,skilled,1,yes,yes,bad,0.16735489873839202
+'0<=X<200',42,'critical/other existing credit',business,5954,'<100','4<=X<7',2,'female div/dep/mar',none,1,'real estate',41,bank,own,2,'unskilled resident',1,none,yes,good,0.6526936475049268
+'0<=X<200',36,'delayed previously',business,9857,'100<=X<500','4<=X<7',1,'male single',none,3,'life insurance',31,none,own,2,'unskilled resident',2,yes,yes,good,0.6475010434489791
+'<0',9,'existing paid',buy_radio_tv,1366,'<100','<1',3,'female div/dep/mar',none,4,'life insurance',22,none,rent,1,skilled,1,none,yes,bad,0.6488302046382619
+'<0',36,'existing paid',education,1977,'no known savings','>=7',4,'male single',none,4,'no known property',40,none,own,1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.6530821121005693
+'>=200',6,'delayed previously',buy_radio_tv,683,'<100','<1',2,'female div/dep/mar',none,1,'life insurance',29,bank,own,1,skilled,1,none,yes,good,0.42000578251910786
+'<0',18,'existing paid',buy_furniture_equipment,1131,'<100',unemployed,4,'female div/dep/mar',none,2,car,33,none,own,1,skilled,1,none,yes,bad,0.7315312591602797
+'>=200',36,'existing paid',buy_radio_tv,4210,'<100','1<=X<4',4,'male single',none,2,car,26,none,own,1,skilled,1,none,yes,bad,0.5883796606808412
+'0<=X<200',48,'existing paid',buy_radio_tv,3979,'no known savings','4<=X<7',4,'male single',none,1,car,41,none,own,2,skilled,2,yes,yes,good,0.6892406183382682
+'0<=X<200',8,'existing paid',business,907,'<100','<1',3,'male mar/wid',none,2,'real estate',26,none,own,1,skilled,1,yes,yes,good,0.30999766887621505
+'no checking',18,'critical/other existing credit',buy_radio_tv,629,'500<=X<1000','>=7',4,'male single',none,3,'life insurance',32,bank,own,2,'high qualif/self emp/mgmt',1,yes,yes,good,0.09409539914220443
+'no checking',6,'existing paid',buy_radio_tv,1346,'100<=X<500','>=7',2,'male single',none,4,'no known property',42,bank,'for free',1,skilled,2,yes,yes,good,0.08643871857209798
+'no checking',24,'critical/other existing credit',buy_used_car,2197,'no known savings','4<=X<7',4,'male single',none,4,car,43,none,own,2,skilled,2,yes,yes,good,0.034332430222807866
+'0<=X<200',48,'critical/other existing credit',buy_furniture_equipment,5096,'<100','1<=X<4',2,'female div/dep/mar',none,3,car,30,none,own,1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.6494001926784719
+'no checking',5,'existing paid',business,3448,'<100','4<=X<7',1,'male single',none,4,'real estate',74,none,own,1,'unskilled resident',1,none,yes,good,0.018731557026457697
+'0<=X<200',18,'existing paid',buy_radio_tv,866,'<100','1<=X<4',4,'male mar/wid',guarantor,2,'real estate',25,none,own,1,'unskilled resident',1,none,yes,good,0.3467092871997665
+'0<=X<200',12,'critical/other existing credit',buy_radio_tv,3573,'<100','1<=X<4',1,'female div/dep/mar',none,1,'real estate',23,none,own,1,'unskilled resident',1,none,yes,good,0.16931709581283688
+'no checking',24,'existing paid',buy_furniture_equipment,929,'no known savings','4<=X<7',4,'male single',none,2,car,31,stores,own,1,skilled,1,yes,yes,good,0.29354479039617876
+'no checking',12,'critical/other existing credit',business,1264,'no known savings','>=7',4,'male single',none,4,'no known property',57,none,rent,1,'unskilled resident',1,none,yes,good,0.10512487504251504
+'no checking',12,'critical/other existing credit',education,2012,'no known savings','4<=X<7',4,'female div/dep/mar',none,2,car,61,none,own,1,skilled,1,none,yes,good,0.11856461244921086
+'no checking',24,'critical/other existing credit',other,6314,'<100',unemployed,4,'male single','co applicant',2,'no known property',27,bank,own,2,'high qualif/self emp/mgmt',1,yes,yes,good,0.5973265342538223
+'no checking',21,'existing paid',buy_radio_tv,3160,'no known savings','>=7',4,'male single',none,3,'life insurance',41,none,own,1,skilled,1,yes,yes,good,0.12771577346705487
+'no checking',24,'existing paid',buy_used_car,2679,'<100','<1',4,'female div/dep/mar',none,1,'no known property',29,none,own,1,'high qualif/self emp/mgmt',1,yes,yes,good,0.16137686694367523
+'no checking',12,'existing paid',business,1076,'<100','1<=X<4',2,'male mar/wid',none,2,'real estate',26,none,own,1,skilled,1,yes,no,good,0.021524960224070293
+'<0',6,'existing paid',buy_domestic_appliance,343,'<100','<1',4,'female div/dep/mar',none,1,'real estate',27,none,own,1,skilled,1,none,yes,good,0.5979073857959235
+'no checking',6,'no credits/all paid',buy_new_car,1204,'100<=X<500','1<=X<4',4,'male single',none,1,'no known property',35,bank,rent,1,skilled,1,none,no,good,0.30845978741780267
+'no checking',18,'existing paid',buy_new_car,2662,'no known savings','4<=X<7',4,'male single',none,3,'life insurance',32,none,own,1,skilled,1,none,no,good,0.07868604594948941
+'no checking',15,'critical/other existing credit',buy_radio_tv,1360,'<100','1<=X<4',4,'male single',none,2,'life insurance',31,none,own,2,skilled,1,none,yes,good,0.1039498331413683
+'>=200',18,'existing paid',buy_furniture_equipment,3049,'<100','<1',1,'female div/dep/mar',none,1,'life insurance',45,stores,own,1,'unskilled resident',1,none,yes,good,0.5210090786721151
+'no checking',24,'existing paid',business,1258,'<100','4<=X<7',4,'male single',none,1,'real estate',25,none,own,1,skilled,1,yes,yes,good,0.16398914281783786
+'no checking',24,'delayed previously',buy_new_car,2032,'<100','>=7',4,'male single',none,4,'no known property',60,none,'for free',2,skilled,1,yes,yes,good,0.1544308768780847
+'0<=X<200',24,'existing paid',buy_radio_tv,3758,'500<=X<1000',unemployed,1,'female div/dep/mar',none,4,'no known property',23,none,rent,1,'unemp/unskilled non res',1,none,yes,good,0.5340743685067159
+'>=200',24,'existing paid',buy_furniture_equipment,3749,'<100','<1',2,'female div/dep/mar',none,4,car,26,none,own,1,skilled,1,none,yes,good,0.5574979450776079
+'<0',24,'existing paid',buy_radio_tv,2384,'<100','>=7',4,'male single',none,4,'real estate',64,bank,rent,1,'unskilled resident',1,none,yes,good,0.4998382547832662
+'0<=X<200',36,'delayed previously',buy_new_car,2225,'<100','>=7',4,'male single',none,4,'no known property',57,bank,'for free',2,skilled,1,yes,yes,bad,0.6767711657944642
+'0<=X<200',6,'critical/other existing credit',retraining,932,'no known savings','4<=X<7',1,'female div/dep/mar',none,3,'life insurance',39,none,own,2,'unskilled resident',1,none,yes,good,0.14027594855746597
+'0<=X<200',12,'existing paid',buy_radio_tv,1331,'<100','<1',2,'male single',none,1,car,22,stores,own,1,skilled,1,none,yes,bad,0.35485396909704586
+'0<=X<200',48,'all paid',business,6416,'<100','>=7',4,'female div/dep/mar',none,3,'no known property',59,none,rent,1,skilled,1,none,yes,bad,0.9377964305710372
+'no checking',48,'critical/other existing credit',business,7629,'no known savings','>=7',4,'male div/sep',none,2,car,46,bank,own,2,'high qualif/self emp/mgmt',2,none,yes,good,0.7829663411224587
+'no checking',24,'existing paid',buy_radio_tv,1376,'500<=X<1000','4<=X<7',4,'female div/dep/mar',none,1,car,28,none,own,1,skilled,1,none,yes,good,0.18108393197138248
+'<0',24,'delayed previously',buy_radio_tv,1024,'<100','<1',4,'male mar/wid',none,4,'real estate',48,stores,own,1,skilled,1,none,yes,bad,0.590703318997348
+'no checking',10,'existing paid',buy_used_car,2901,'no known savings','<1',1,'female div/dep/mar',none,4,'real estate',31,none,rent,1,skilled,1,none,yes,good,0.02615435966789676
+'0<=X<200',36,'all paid',buy_domestic_appliance,3990,'no known savings','<1',3,'female div/dep/mar',none,2,'no known property',29,bank,own,1,'unemp/unskilled non res',1,none,yes,good,0.9524690401217868
+'>=200',24,'existing paid',buy_new_car,947,'<100','4<=X<7',4,'male single',none,3,'no known property',38,bank,'for free',1,skilled,2,none,yes,bad,0.7357055867312791
+'<0',60,'existing paid',business,7297,'<100','>=7',4,'male single','co applicant',4,'no known property',36,none,rent,1,skilled,1,none,yes,bad,0.9254738650206413
+'0<=X<200',18,'existing paid',business,1913,'>=1000','<1',3,'male mar/wid',none,3,'real estate',36,bank,own,1,skilled,1,yes,yes,good,0.41031300901264695
+'0<=X<200',9,'existing paid',buy_furniture_equipment,918,'<100','1<=X<4',4,'female div/dep/mar',none,1,'life insurance',30,none,own,1,skilled,1,none,yes,bad,0.6065039921487054
+'0<=X<200',30,'existing paid',buy_radio_tv,1715,'no known savings','1<=X<4',4,'female div/dep/mar',none,1,car,26,none,own,1,skilled,1,none,yes,good,0.647461303368586
+'no checking',24,'existing paid',buy_used_car,7814,'<100','4<=X<7',3,'male single',none,3,car,38,none,own,1,'high qualif/self emp/mgmt',1,yes,yes,good,0.05196439497997511
+'no checking',7,'critical/other existing credit',buy_radio_tv,730,'no known savings','>=7',4,'male single',none,2,'life insurance',46,none,rent,2,'unskilled resident',1,yes,yes,good,0.056849088959913405
+'0<=X<200',9,'existing paid',buy_radio_tv,458,'<100','1<=X<4',4,'male single',none,3,'real estate',24,none,own,1,skilled,1,none,yes,good,0.27463793244322604
+'<0',36,'existing paid',buy_furniture_equipment,5179,'<100','4<=X<7',4,'male single',none,2,'life insurance',29,none,own,1,skilled,1,none,yes,bad,0.7871617991901613
+'no checking',24,'existing paid',retraining,937,'<100','<1',4,'male mar/wid',none,3,car,27,none,own,2,'unskilled resident',1,none,yes,good,0.2582203358635502
+'<0',24,'existing paid',buy_new_car,1381,'no known savings','1<=X<4',4,'female div/dep/mar',none,2,'life insurance',35,none,own,1,skilled,1,none,yes,bad,0.7666657447508599
+'no checking',48,'existing paid',buy_radio_tv,10222,'no known savings','4<=X<7',4,'male single',none,3,car,37,stores,own,1,skilled,1,yes,yes,good,0.6625291044812089
+'0<=X<200',18,'critical/other existing credit',buy_radio_tv,1795,'<100','>=7',3,'female div/dep/mar',guarantor,4,'real estate',48,bank,rent,2,'unskilled resident',1,yes,yes,good,0.35273049009036084
+'no checking',36,'critical/other existing credit',buy_radio_tv,3342,'no known savings','>=7',4,'male single',none,2,car,51,none,own,1,skilled,1,yes,yes,good,0.09517094469982526
+'no checking',18,'critical/other existing credit',education,1864,'100<=X<500','1<=X<4',4,'female div/dep/mar',none,2,'real estate',30,none,own,2,skilled,1,none,yes,bad,0.18859713630034206
+'<0',18,'existing paid',buy_new_car,976,'<100','<1',1,'female div/dep/mar',none,2,car,23,none,own,1,'unskilled resident',1,none,yes,bad,0.4316114921859077
+'0<=X<200',20,'delayed previously',other,2629,'<100','1<=X<4',2,'male single',none,3,car,29,bank,own,2,skilled,1,yes,yes,good,0.49039851210527124
+'no checking',6,'existing paid',buy_furniture_equipment,1543,'>=1000','1<=X<4',4,'male div/sep',none,2,'real estate',33,none,own,1,skilled,1,none,yes,good,0.17873390782978982
+'0<=X<200',36,'existing paid',buy_new_car,12389,'no known savings','1<=X<4',1,'male single',none,4,'no known property',37,none,'for free',1,skilled,1,yes,yes,bad,0.7376050402590939
+'no checking',6,'critical/other existing credit',buy_radio_tv,1382,'<100','1<=X<4',1,'female div/dep/mar',none,1,car,28,none,own,2,skilled,1,yes,yes,good,0.03508504143581395
+'no checking',36,'delayed previously',buy_new_car,10875,'<100','>=7',2,'male single',none,2,car,45,none,own,2,skilled,2,yes,yes,good,0.3332032256811491
+'no checking',36,'critical/other existing credit',buy_used_car,10477,'no known savings','>=7',2,'male single',none,4,'no known property',42,none,'for free',2,skilled,1,none,yes,good,0.050054545191546035
+'no checking',18,'critical/other existing credit',buy_new_car,1028,'<100','1<=X<4',4,'female div/dep/mar',none,3,'real estate',36,none,own,2,skilled,1,none,yes,good,0.17234127587878606
+'0<=X<200',9,'existing paid',buy_radio_tv,1670,'<100','<1',4,'female div/dep/mar',none,2,car,22,none,own,1,skilled,1,yes,yes,bad,0.5540962004476401
+'<0',12,'existing paid',buy_furniture_equipment,1620,'<100','1<=X<4',2,'female div/dep/mar','co applicant',3,'life insurance',30,none,own,1,skilled,1,none,yes,good,0.5085137455856533
+'no checking',12,'critical/other existing credit',buy_radio_tv,976,'no known savings','>=7',4,'male single',none,4,car,35,none,own,2,skilled,1,none,yes,good,0.04581748915214353
+'<0',48,'no credits/all paid',buy_used_car,4605,'<100','>=7',3,'male single',none,4,'no known property',24,none,'for free',2,skilled,2,none,yes,bad,0.6584392086951508
+'no checking',6,'existing paid',repairs,660,'500<=X<1000','4<=X<7',2,'male mar/wid',none,4,'real estate',23,none,rent,1,'unskilled resident',1,none,yes,good,0.05005925510498659
+'no checking',36,'delayed previously',buy_used_car,8947,'no known savings','4<=X<7',3,'male single',none,2,car,31,stores,own,1,'high qualif/self emp/mgmt',2,yes,yes,good,0.2376074741344745
+'no checking',10,'existing paid',buy_furniture_equipment,2210,'<100','1<=X<4',2,'male single',none,2,'real estate',25,bank,rent,1,'unskilled resident',1,none,yes,bad,0.18268228559494482
+'<0',18,'existing paid',buy_radio_tv,3190,'<100','1<=X<4',2,'female div/dep/mar',none,2,'real estate',24,none,own,1,skilled,1,none,yes,bad,0.42882438751371893
+'<0',9,'existing paid',buy_radio_tv,1364,'<100','4<=X<7',3,'male single',none,4,'real estate',59,none,own,1,skilled,1,none,yes,good,0.14753987501482596
+'>=200',12,'critical/other existing credit',buy_new_car,1480,'500<=X<1000',unemployed,2,'male single',none,4,'no known property',66,bank,'for free',3,'unemp/unskilled non res',1,none,yes,good,0.2258748227569914
+'0<=X<200',39,'delayed previously',education,11760,'100<=X<500','4<=X<7',2,'male single',none,3,'no known property',32,none,rent,1,skilled,1,yes,yes,good,0.8258395383702626
+'no checking',15,'critical/other existing credit',education,1532,'100<=X<500','1<=X<4',4,'female div/dep/mar',none,3,car,31,none,own,1,skilled,1,none,yes,good,0.1964987380037355
+'<0',12,'all paid',buy_new_car,697,'<100','<1',4,'male single',none,2,car,46,bank,own,2,skilled,1,yes,yes,bad,0.7888598543382364
+'no checking',12,'existing paid',buy_furniture_equipment,763,'<100','1<=X<4',4,'female div/dep/mar',none,1,'real estate',26,none,own,1,skilled,1,yes,yes,good,0.2320402186123088
+'<0',24,'existing paid',buy_radio_tv,1987,'<100','1<=X<4',2,'male single',none,4,'real estate',21,none,rent,1,'unskilled resident',2,none,yes,bad,0.4864070529586385
+'no checking',24,'critical/other existing credit',buy_radio_tv,2611,'<100','>=7',4,'male mar/wid','co applicant',3,'real estate',46,none,own,2,skilled,1,none,yes,good,0.05717236336117908
+'<0',18,'critical/other existing credit',buy_new_car,5302,'<100','>=7',2,'male single',none,4,'no known property',36,none,'for free',3,'high qualif/self emp/mgmt',1,yes,yes,good,0.3370864654489095
+'<0',30,'no credits/all paid',business,8072,'no known savings','<1',2,'male single',none,3,car,25,bank,own,3,skilled,1,none,yes,good,0.924628354280661
+'0<=X<200',24,'delayed previously',buy_new_car,1965,'no known savings','1<=X<4',4,'female div/dep/mar',none,4,car,42,none,rent,2,skilled,1,yes,yes,good,0.7343882605595001
+'0<=X<200',12,'existing paid',buy_new_car,1223,'<100','>=7',1,'male div/sep',none,1,'real estate',46,none,rent,2,skilled,1,none,yes,bad,0.22699500147283896
+'no checking',6,'existing paid',buy_radio_tv,518,'<100','1<=X<4',3,'female div/dep/mar',none,1,'real estate',29,none,own,1,skilled,1,none,yes,good,0.08951359299368332
+'0<=X<200',9,'existing paid',buy_furniture_equipment,2030,'no known savings','4<=X<7',2,'male single',none,1,car,24,none,own,1,skilled,1,yes,yes,good,0.22037912232734816
+'no checking',36,'existing paid',buy_new_car,909,'500<=X<1000','>=7',4,'male single',none,4,'life insurance',36,none,own,1,skilled,1,none,yes,good,0.16703583469909028
+'<0',9,'existing paid',buy_new_car,1422,'<100','<1',3,'male single',none,2,'no known property',27,none,'for free',1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.5437675087743148
+'no checking',36,'critical/other existing credit',business,6304,'no known savings','>=7',4,'male single',none,4,'real estate',36,none,own,2,skilled,1,none,yes,good,0.20322414164486494
+'no checking',21,'critical/other existing credit',buy_new_car,12680,'no known savings','>=7',4,'male single',none,4,'no known property',30,none,'for free',1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.46295330899802034
+'no checking',6,'existing paid',buy_domestic_appliance,1338,'500<=X<1000','1<=X<4',1,'male div/sep',none,4,'real estate',62,none,own,1,skilled,1,none,yes,good,0.04305874127133996
+'no checking',24,'existing paid',business,4591,'>=1000','1<=X<4',2,'male single',none,3,'life insurance',54,none,own,3,'high qualif/self emp/mgmt',1,yes,yes,bad,0.08663834063269085
+'>=200',4,'existing paid',buy_new_car,1494,'no known savings','<1',1,'male single',none,2,'real estate',29,none,own,1,'unskilled resident',2,none,no,good,0.062197870905035015
+'0<=X<200',9,'critical/other existing credit',education,1501,'<100','>=7',2,'female div/dep/mar',none,3,car,34,none,own,2,'high qualif/self emp/mgmt',1,yes,yes,bad,0.17115250662373901
+'no checking',12,'critical/other existing credit',buy_radio_tv,930,'no known savings','>=7',4,'male single',none,4,'real estate',65,none,own,4,skilled,1,none,yes,good,0.02403645979618143
+'<0',28,'existing paid',buy_new_car,4006,'<100','1<=X<4',3,'male single',none,2,car,45,none,own,1,'unskilled resident',1,none,yes,bad,0.5631957615377323
+'>=200',12,'existing paid',buy_furniture_equipment,1474,'<100','<1',4,'female div/dep/mar',none,1,'life insurance',33,bank,own,1,'high qualif/self emp/mgmt',1,yes,yes,good,0.7740541379790283
+'>=200',15,'existing paid',education,1905,'<100','>=7',4,'male single',none,4,car,40,none,rent,1,'high qualif/self emp/mgmt',1,yes,yes,good,0.37732092048705335
+'0<=X<200',39,'critical/other existing credit',buy_radio_tv,4933,'<100','4<=X<7',2,'male single',guarantor,2,'real estate',25,none,own,2,skilled,1,none,yes,bad,0.2571829291933998
+'no checking',9,'existing paid',business,1449,'<100','4<=X<7',3,'female div/dep/mar',none,2,car,27,none,own,2,skilled,1,none,yes,good,0.15468523563003245
+'<0',12,'existing paid',buy_radio_tv,701,'<100','1<=X<4',4,'male mar/wid',none,2,'real estate',40,none,own,1,'unskilled resident',1,none,yes,good,0.32424393780473904
+'0<=X<200',15,'critical/other existing credit',business,2326,'500<=X<1000','1<=X<4',2,'male single',none,4,car,27,bank,own,1,skilled,1,none,yes,good,0.2956418068960237
+'0<=X<200',12,'existing paid',buy_new_car,2002,'<100','4<=X<7',3,'male single',none,4,'life insurance',30,none,rent,1,skilled,2,yes,yes,good,0.5425409888116037
+'<0',24,'existing paid',buy_furniture_equipment,1747,'<100','<1',4,'male single','co applicant',1,'life insurance',24,none,own,1,'unskilled resident',1,none,no,good,0.44203003176510985
+'>=200',18,'existing paid',buy_furniture_equipment,2864,'<100','1<=X<4',2,'male single',none,1,'real estate',34,none,own,1,'unskilled resident',2,none,yes,bad,0.3237404699754769
+'no checking',30,'all paid',buy_used_car,7485,'no known savings',unemployed,4,'female div/dep/mar',none,1,'real estate',53,bank,own,1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.4325323543180153
+'0<=X<200',24,'all paid',education,1837,'<100','4<=X<7',4,'female div/dep/mar',none,4,'no known property',34,bank,'for free',1,'unskilled resident',1,none,yes,bad,0.9077121260101185
+'0<=X<200',36,'existing paid',education,2273,'<100','4<=X<7',3,'male single',none,1,car,32,none,own,2,skilled,2,none,yes,good,0.570514027811828
+'0<=X<200',6,'delayed previously',buy_new_car,1209,'<100',unemployed,4,'male single',none,4,'life insurance',47,none,own,1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.431267216874354
+'>=200',12,'existing paid',buy_furniture_equipment,1424,'no known savings','>=7',3,'female div/dep/mar',none,4,'real estate',55,none,own,1,'high qualif/self emp/mgmt',1,yes,yes,good,0.21625802145919695
+'<0',45,'no credits/all paid',business,11816,'<100','>=7',2,'male single',none,4,car,29,none,rent,2,skilled,1,none,yes,bad,0.920321218419357
+'no checking',21,'critical/other existing credit',buy_used_car,3275,'<100','>=7',1,'male single',none,4,car,36,none,own,1,'high qualif/self emp/mgmt',1,yes,yes,good,0.005378041991472764
+'<0',24,'all paid',buy_radio_tv,1546,'<100','4<=X<7',4,'male single',guarantor,4,car,24,bank,rent,1,'unskilled resident',1,none,yes,bad,0.8410272916415577
+'<0',24,'all paid',buy_new_car,1193,'<100',unemployed,1,'female div/dep/mar','co applicant',4,'no known property',29,none,rent,2,'unemp/unskilled non res',1,none,yes,bad,0.7987848337791346
+'0<=X<200',60,'existing paid',education,6288,'<100','1<=X<4',4,'male single',none,4,'no known property',42,none,'for free',1,skilled,1,none,yes,bad,0.8885563197995797
+'<0',24,'existing paid',buy_furniture_equipment,4020,'<100','1<=X<4',2,'male single',none,2,car,27,stores,own,1,skilled,1,none,yes,good,0.6542123619294944
+'<0',24,'all paid',other,1358,'no known savings','>=7',4,'male single',none,3,car,40,stores,own,1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.7691274797639864
+'no checking',12,'critical/other existing credit',buy_new_car,926,'<100',unemployed,1,'female div/dep/mar',none,2,'life insurance',38,none,own,1,'unemp/unskilled non res',1,none,yes,good,0.07284068856615684
+'<0',48,'existing paid',buy_used_car,4788,'<100','4<=X<7',4,'male single',none,3,'life insurance',26,none,own,1,skilled,2,none,yes,good,0.5678423891777572
+'<0',15,'existing paid',buy_radio_tv,1053,'<100','<1',4,'male mar/wid',none,2,'real estate',27,none,own,1,skilled,1,none,no,good,0.19560150761755876
+'no checking',24,'existing paid',buy_radio_tv,1413,'<100','1<=X<4',4,'male mar/wid',none,2,'life insurance',28,none,own,1,skilled,1,none,yes,good,0.2009838737152346
+'<0',12,'critical/other existing credit',buy_new_car,2171,'<100','1<=X<4',4,'male single',none,4,'life insurance',38,bank,own,2,'unskilled resident',1,none,no,good,0.3445384512322919
+'no checking',12,'existing paid',buy_new_car,2859,'no known savings',unemployed,4,'male single',none,4,'no known property',38,none,own,1,'high qualif/self emp/mgmt',1,yes,yes,good,0.29826422542522746
+'0<=X<200',12,'existing paid',buy_furniture_equipment,1922,'<100','1<=X<4',4,'male single',none,2,'life insurance',37,none,own,1,'unskilled resident',1,none,yes,bad,0.48688258608798746
+'0<=X<200',45,'existing paid',buy_radio_tv,3031,'100<=X<500','1<=X<4',4,'male single',guarantor,4,'life insurance',21,none,rent,1,skilled,1,none,yes,bad,0.7580608549540899
+'<0',18,'existing paid',buy_radio_tv,2600,'<100','1<=X<4',4,'male single',none,4,'no known property',65,none,'for free',2,skilled,1,none,yes,bad,0.47415055885863505
+'no checking',9,'critical/other existing credit',buy_radio_tv,3074,'no known savings','1<=X<4',1,'male single',none,2,'real estate',33,none,own,2,skilled,2,none,yes,good,0.03182475199255508
+'>=200',15,'critical/other existing credit',buy_used_car,2360,'500<=X<1000','1<=X<4',2,'male single',none,2,car,36,none,own,1,skilled,1,yes,yes,good,0.025782560444500467
+'no checking',6,'delayed previously',business,1743,'100<=X<500','1<=X<4',1,'male single',none,2,'real estate',34,none,own,2,'unskilled resident',1,none,yes,good,0.031362119476524876
+'<0',48,'critical/other existing credit',buy_used_car,6331,'<100','>=7',4,'male single',none,4,'no known property',46,none,'for free',2,skilled,1,yes,yes,bad,0.32878683310602963
+'0<=X<200',12,'no credits/all paid',buy_furniture_equipment,2969,'<100','<1',4,'female div/dep/mar',none,3,'life insurance',25,none,rent,2,skilled,1,none,yes,bad,0.9106547394743788
+'<0',12,'existing paid',buy_furniture_equipment,7865,'<100','>=7',4,'male single',none,4,'no known property',53,none,'for free',1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.6487097096039801
+'no checking',12,'critical/other existing credit',buy_radio_tv,1934,'<100','>=7',2,'male single',none,2,'no known property',26,none,own,2,skilled,1,none,yes,good,0.03612832290979208
+'no checking',24,'existing paid',buy_radio_tv,3105,'no known savings','<1',4,'male single',none,2,car,25,none,own,2,skilled,1,none,yes,good,0.2427449948828608
+'no checking',4,'critical/other existing credit',buy_radio_tv,1544,'<100','4<=X<7',2,'male single',none,1,'real estate',42,none,own,3,'unskilled resident',2,none,yes,good,0.023374969554143272
+'<0',24,'existing paid',buy_radio_tv,1823,'<100',unemployed,4,'male single',none,2,car,30,stores,own,1,'high qualif/self emp/mgmt',2,none,yes,bad,0.8023770265974702
+'no checking',15,'existing paid',buy_radio_tv,1386,'no known savings','1<=X<4',4,'male mar/wid',none,2,'real estate',40,none,rent,1,skilled,1,yes,yes,good,0.1380417588430841
+'no checking',9,'existing paid',buy_radio_tv,2697,'<100','1<=X<4',1,'male single',none,2,'real estate',32,none,own,1,skilled,2,none,yes,good,0.045390769797930754
+'no checking',18,'critical/other existing credit',buy_used_car,3850,'<100','4<=X<7',3,'male single',none,1,car,27,none,own,2,skilled,1,none,yes,good,0.019422174862415535
+'0<=X<200',48,'existing paid',business,15672,'<100','1<=X<4',2,'male single',none,2,car,23,none,own,1,skilled,1,yes,yes,bad,0.8921591483233301
+'no checking',10,'existing paid',buy_used_car,2848,'100<=X<500','1<=X<4',1,'male single','co applicant',2,'real estate',32,none,own,1,skilled,2,none,yes,good,0.01118532699152653
+'no checking',15,'critical/other existing credit',buy_radio_tv,1471,'<100','1<=X<4',4,'male single',none,4,'no known property',35,none,'for free',2,skilled,1,yes,yes,good,0.11934034642218126
+'0<=X<200',7,'existing paid',buy_radio_tv,2415,'<100','1<=X<4',3,'male single',guarantor,2,'real estate',34,none,own,1,skilled,1,none,yes,good,0.2065751776342233
+'no checking',12,'critical/other existing credit',buy_radio_tv,1240,'no known savings','>=7',4,'female div/dep/mar',none,2,'real estate',38,none,own,2,skilled,1,yes,yes,good,0.06713687028380826
+'0<=X<200',6,'existing paid',buy_radio_tv,590,'<100','<1',3,'male mar/wid',none,3,'real estate',26,none,own,1,'unskilled resident',1,none,no,good,0.07580517194435785
+'<0',27,'critical/other existing credit',business,2442,'<100','>=7',4,'male single',none,4,car,43,stores,own,4,'high qualif/self emp/mgmt',2,yes,yes,good,0.6599155260918934
+'no checking',10,'critical/other existing credit',buy_furniture_equipment,2146,'<100','<1',1,'female div/dep/mar',none,3,'real estate',23,none,rent,2,skilled,1,none,yes,good,0.09476529833819339
+'no checking',36,'existing paid',buy_radio_tv,3595,'<100','>=7',4,'male single',none,2,car,28,none,own,1,skilled,1,none,yes,good,0.18977732959732552
+'<0',9,'existing paid',buy_new_car,654,'<100','1<=X<4',4,'male single',none,3,car,28,none,own,1,'unskilled resident',1,none,yes,bad,0.4838815627082309
+'<0',18,'existing paid',buy_furniture_equipment,2659,'>=1000','1<=X<4',4,'male single',none,2,car,28,none,own,1,skilled,1,none,yes,good,0.4933043751332181
+'<0',6,'critical/other existing credit',buy_new_car,860,'<100','>=7',1,'female div/dep/mar',none,4,'no known property',39,none,own,2,skilled,1,yes,yes,good,0.1728061005242711
+'no checking',48,'critical/other existing credit',buy_new_car,10127,'500<=X<1000','1<=X<4',2,'male single',none,2,'no known property',44,bank,'for free',1,skilled,1,none,yes,bad,0.5029718432599596
+'0<=X<200',18,'critical/other existing credit',buy_furniture_equipment,1928,'<100','<1',2,'male single',none,2,'real estate',31,none,own,2,'unskilled resident',1,none,yes,bad,0.20358837163356602
+'no checking',18,'critical/other existing credit',buy_radio_tv,2238,'<100','1<=X<4',2,'female div/dep/mar',none,1,car,25,none,own,2,skilled,1,none,yes,good,0.0873528877761327
+'<0',12,'existing paid',buy_radio_tv,1498,'<100','1<=X<4',4,'female div/dep/mar',none,1,car,23,bank,own,1,skilled,1,none,yes,good,0.7488825781054872
+'no checking',30,'critical/other existing credit',buy_radio_tv,3077,'no known savings','>=7',3,'male single',none,2,car,40,none,own,2,skilled,2,yes,yes,good,0.08997389085256201
+'>=200',10,'existing paid',buy_furniture_equipment,1275,'<100','<1',4,'female div/dep/mar',none,2,'life insurance',23,none,own,1,skilled,1,none,yes,good,0.6513895718700914
+'<0',42,'critical/other existing credit',repairs,3394,'<100',unemployed,4,'male single','co applicant',4,car,65,none,own,2,'unemp/unskilled non res',1,none,yes,good,0.6192099073804441
+'no checking',36,'critical/other existing credit',buy_radio_tv,9566,'<100','1<=X<4',2,'female div/dep/mar',none,2,car,31,stores,own,2,skilled,1,none,yes,good,0.45847603651409885
+'<0',24,'existing paid',buy_furniture_equipment,4169,'<100','1<=X<4',4,'male single',none,4,'life insurance',28,none,own,1,skilled,1,none,yes,good,0.7469243131806917
+'0<=X<200',15,'no credits/all paid',buy_new_car,1778,'<100','<1',2,'female div/dep/mar',none,1,'real estate',26,none,rent,2,'unemp/unskilled non res',1,none,yes,bad,0.7113806074746791
+'0<=X<200',9,'critical/other existing credit',buy_radio_tv,1154,'<100','>=7',2,'male single',none,4,'real estate',37,none,own,3,'unskilled resident',1,none,yes,good,0.05203502146230971
+'0<=X<200',30,'all paid',buy_furniture_equipment,3496,'>=1000','1<=X<4',4,'male single',none,2,car,34,stores,own,1,skilled,2,yes,yes,good,0.8649576405412609
+'<0',12,'existing paid',buy_radio_tv,1680,'500<=X<1000','>=7',3,'male mar/wid',none,1,'real estate',35,none,own,1,skilled,1,none,yes,good,0.15286096604725533
+'>=200',24,'critical/other existing credit',buy_new_car,1344,'no known savings','4<=X<7',4,'male single',none,2,'real estate',37,bank,own,2,'unskilled resident',2,none,yes,bad,0.5218363634965391
+'<0',48,'existing paid',buy_new_car,3931,'<100','4<=X<7',4,'male single',none,4,'no known property',46,none,'for free',1,skilled,2,none,yes,bad,0.8622596988499329
+'<0',30,'no credits/all paid',buy_furniture_equipment,4583,'<100','1<=X<4',2,'male div/sep',guarantor,2,'real estate',32,none,own,2,skilled,1,none,yes,good,0.856018425224977
+'no checking',15,'critical/other existing credit',buy_new_car,5045,'no known savings','>=7',1,'female div/dep/mar',none,4,car,59,none,own,1,skilled,1,yes,yes,good,0.045026317908600545
+'<0',12,'existing paid',education,795,'<100','<1',4,'female div/dep/mar',none,4,'life insurance',53,none,own,1,skilled,1,none,yes,bad,0.6535965058128711
+'no checking',36,'existing paid',business,5742,'100<=X<500','4<=X<7',2,'male single',none,2,car,31,none,own,2,skilled,1,yes,yes,good,0.17763755931559114
+'no checking',12,'existing paid',buy_radio_tv,886,'no known savings','1<=X<4',4,'female div/dep/mar',none,2,car,21,none,own,1,skilled,1,none,yes,good,0.21433985243737455
+'0<=X<200',30,'existing paid',buy_new_car,2150,'<100','1<=X<4',4,'female div/dep/mar',guarantor,2,'no known property',24,bank,own,1,skilled,1,none,yes,bad,0.8979803413541564
+'0<=X<200',48,'no credits/all paid',business,14421,'<100','1<=X<4',2,'male single',none,2,car,25,none,own,1,skilled,1,yes,yes,bad,0.9415562207467201
+'0<=X<200',13,'critical/other existing credit',buy_radio_tv,882,'<100','<1',4,'male single',guarantor,4,'real estate',23,none,own,2,skilled,1,none,yes,good,0.26075539260624336
+'no checking',12,'existing paid',buy_radio_tv,804,'<100','>=7',4,'male single',none,4,car,38,none,own,1,skilled,1,none,yes,good,0.06309598751455539
+'no checking',12,'critical/other existing credit',buy_radio_tv,522,'500<=X<1000','>=7',4,'male single',none,4,'life insurance',42,none,own,2,skilled,2,yes,yes,good,0.05502325322486351
+'no checking',15,'delayed previously',buy_radio_tv,1478,'<100','1<=X<4',4,'male mar/wid',none,3,'real estate',33,bank,own,2,skilled,1,none,yes,good,0.19304416949189812
+'no checking',18,'existing paid',business,1950,'<100','4<=X<7',4,'male single',none,1,car,34,stores,own,2,skilled,1,yes,yes,good,0.27695803285363346
+'no checking',24,'critical/other existing credit',buy_radio_tv,5103,'<100','<1',3,'male mar/wid',none,3,'no known property',47,none,'for free',3,skilled,1,yes,yes,good,0.16240398287824476
+'no checking',6,'delayed previously',buy_radio_tv,932,'<100','1<=X<4',3,'female div/dep/mar',none,2,'real estate',24,none,own,1,skilled,1,none,yes,good,0.10126667399665759
+'0<=X<200',12,'critical/other existing credit',buy_new_car,1995,'100<=X<500','<1',4,'male single',none,1,car,27,none,own,1,skilled,1,none,yes,good,0.3876722537894706
+'0<=X<200',18,'critical/other existing credit',buy_furniture_equipment,7374,'<100',unemployed,4,'male single',none,4,'life insurance',40,stores,own,2,'high qualif/self emp/mgmt',1,yes,yes,good,0.7916130717637803
+'0<=X<200',9,'critical/other existing credit',education,1136,'>=1000','>=7',4,'male single',none,3,'no known property',32,none,'for free',2,skilled,2,none,yes,bad,0.27248777024199655
+'no checking',15,'all paid',buy_radio_tv,1569,'100<=X<500','>=7',4,'male single',none,4,car,34,bank,own,1,'unskilled resident',2,none,yes,good,0.3299411744463946
+'0<=X<200',12,'existing paid',buy_radio_tv,1567,'<100','1<=X<4',1,'female div/dep/mar',none,1,car,22,none,own,1,skilled,1,yes,yes,good,0.22346617198245672
+'<0',24,'existing paid',buy_furniture_equipment,3234,'<100','<1',4,'female div/dep/mar',none,4,'real estate',23,none,rent,1,'unskilled resident',1,yes,yes,bad,0.8544920139472852
+'0<=X<200',9,'existing paid',buy_radio_tv,1206,'<100','>=7',4,'female div/dep/mar',none,4,'real estate',25,none,own,1,skilled,1,none,yes,good,0.3186728172878708
+'no checking',18,'delayed previously',buy_radio_tv,2320,'<100',unemployed,2,'male mar/wid',none,3,'real estate',34,none,own,2,skilled,1,none,yes,good,0.06825947120493309
+'no checking',48,'critical/other existing credit',education,6110,'<100','1<=X<4',1,'male single',none,3,'no known property',31,bank,'for free',1,skilled,1,yes,yes,good,0.3559004589978859
+'<0',24,'all paid',buy_furniture_equipment,3552,'<100','4<=X<7',3,'male single',none,4,car,27,bank,own,1,skilled,1,none,yes,bad,0.8181900911048048
+'<0',21,'existing paid',buy_radio_tv,1835,'<100','1<=X<4',3,'female div/dep/mar',none,2,'real estate',25,none,own,2,skilled,1,yes,yes,bad,0.5091879990001836
+'no checking',27,'existing paid',repairs,5190,'no known savings','>=7',4,'male single',none,4,'life insurance',48,none,own,4,skilled,2,yes,yes,good,0.3299498762289235
+'0<=X<200',12,'existing paid',buy_furniture_equipment,951,'100<=X<500','<1',4,'female div/dep/mar',none,4,car,27,bank,rent,4,skilled,1,none,yes,bad,0.8137158349772788
+'0<=X<200',48,'delayed previously',other,7582,'100<=X<500',unemployed,2,'male single',none,4,'no known property',31,none,'for free',1,'high qualif/self emp/mgmt',1,yes,yes,good,0.7834139307303188
+'no checking',24,'critical/other existing credit',buy_used_car,6842,'no known savings','1<=X<4',2,'male single',none,4,'life insurance',46,none,own,2,'high qualif/self emp/mgmt',2,yes,yes,good,0.04091169091470786
+'<0',9,'existing paid',buy_furniture_equipment,2136,'<100','1<=X<4',3,'male single',none,2,'real estate',25,none,own,1,skilled,1,none,yes,good,0.38844021588559746
+'<0',24,'all paid',business,3161,'<100','1<=X<4',4,'male single',none,2,'life insurance',31,none,rent,1,skilled,1,yes,yes,bad,0.8796075053483224
+'0<=X<200',18,'existing paid',buy_furniture_equipment,3001,'<100','4<=X<7',2,'female div/dep/mar',none,4,'real estate',40,none,rent,1,skilled,1,none,yes,good,0.4150725360010791
+'<0',18,'existing paid',buy_furniture_equipment,2462,'<100','1<=X<4',2,'male single',none,2,car,22,none,own,1,skilled,1,none,yes,bad,0.4108479283520076
+'no checking',6,'critical/other existing credit',buy_new_car,250,'>=1000','1<=X<4',2,'female div/dep/mar',none,2,'real estate',41,bank,own,2,'unskilled resident',1,none,yes,good,0.054538027236498456
+'<0',12,'existing paid',buy_furniture_equipment,708,'<100','1<=X<4',2,'male single',guarantor,3,'life insurance',38,none,own,1,'unskilled resident',2,none,yes,good,0.4007277664082639
+'0<=X<200',12,'existing paid',buy_radio_tv,1534,'<100','<1',1,'male mar/wid',none,1,'real estate',23,none,rent,1,skilled,1,none,yes,bad,0.182347850327027
+'<0',18,'all paid',buy_new_car,1442,'<100','4<=X<7',4,'male single',none,4,'no known property',32,none,'for free',2,'unskilled resident',2,none,yes,bad,0.8264004562537058
+'no checking',12,'existing paid',buy_radio_tv,2073,'100<=X<500','1<=X<4',4,'female div/dep/mar','co applicant',2,'real estate',28,none,own,1,skilled,1,none,yes,good,0.17445481968866777
+'no checking',9,'critical/other existing credit',buy_furniture_equipment,2406,'<100',unemployed,2,'male single',none,3,car,31,none,own,1,'high qualif/self emp/mgmt',1,none,yes,good,0.06553477260089413
+'0<=X<200',24,'delayed previously',buy_radio_tv,1553,'100<=X<500','4<=X<7',3,'female div/dep/mar',none,2,'life insurance',23,none,rent,2,skilled,1,yes,yes,good,0.5509383114680388
+'0<=X<200',12,'existing paid',buy_radio_tv,1103,'<100','4<=X<7',4,'male single',guarantor,3,'real estate',29,none,own,2,skilled,1,none,no,good,0.09135305512791193
+'no checking',36,'delayed previously',buy_radio_tv,4454,'<100','1<=X<4',4,'female div/dep/mar',none,4,'real estate',34,none,own,2,skilled,1,none,yes,good,0.37519194332543554
+'<0',30,'critical/other existing credit',buy_used_car,6187,'100<=X<500','4<=X<7',1,'male mar/wid',none,4,car,24,none,rent,2,skilled,1,none,yes,good,0.10721596193431887
+'no checking',24,'critical/other existing credit',buy_furniture_equipment,5150,'<100','>=7',4,'male single',none,4,car,33,none,own,1,skilled,1,yes,yes,good,0.16134914215552046
+'no checking',30,'critical/other existing credit',buy_radio_tv,6742,'no known savings','4<=X<7',2,'male single',none,3,'life insurance',36,none,own,2,skilled,1,none,yes,good,0.1044964087923148
+'0<=X<200',12,'critical/other existing credit',buy_used_car,1804,'100<=X<500','<1',3,'male single',none,4,'life insurance',44,none,own,1,skilled,1,none,yes,good,0.05747899079799129
+'<0',12,'existing paid',buy_furniture_equipment,1289,'<100','1<=X<4',4,'male single',guarantor,1,'life insurance',21,none,own,1,'unskilled resident',1,none,yes,good,0.604065016422865
+'no checking',36,'critical/other existing credit',buy_used_car,5842,'<100','>=7',2,'male single',none,2,'life insurance',35,none,own,2,skilled,2,yes,yes,good,0.03524245008025401
+'0<=X<200',24,'critical/other existing credit',business,1935,'<100','>=7',4,'male div/sep',none,4,'real estate',31,none,own,2,skilled,1,yes,yes,bad,0.5037764897998771
+'0<=X<200',10,'all paid',buy_radio_tv,1048,'<100','1<=X<4',4,'male single',none,4,'real estate',23,stores,own,1,'unskilled resident',1,none,yes,good,0.6370225479860947
+'no checking',15,'existing paid',buy_radio_tv,3568,'<100','>=7',4,'female div/dep/mar',none,2,car,54,bank,rent,1,'high qualif/self emp/mgmt',1,yes,yes,good,0.312474817207473
+'0<=X<200',18,'existing paid',business,2622,'100<=X<500','1<=X<4',4,'male single',none,4,car,34,none,own,1,skilled,1,none,yes,good,0.4900925190979282
+'<0',24,'existing paid',buy_new_car,1442,'<100','4<=X<7',4,'female div/dep/mar',none,4,car,23,none,rent,2,skilled,1,none,yes,bad,0.784216061834131
+'0<=X<200',12,'existing paid',buy_radio_tv,1092,'<100','1<=X<4',4,'female div/dep/mar',guarantor,4,'real estate',49,none,own,2,skilled,1,yes,yes,good,0.3625700983202081
+'no checking',24,'critical/other existing credit',buy_furniture_equipment,3777,'>=1000','1<=X<4',4,'male single',none,4,'real estate',50,none,own,1,skilled,1,yes,yes,good,0.08849797224391807
+'no checking',24,'existing paid',buy_new_car,1393,'<100','1<=X<4',2,'male single',guarantor,2,'real estate',31,none,own,1,skilled,1,yes,yes,good,0.0859675034037995
+'<0',10,'existing paid',buy_radio_tv,2315,'<100','>=7',3,'male single',none,4,'real estate',52,none,own,1,'unskilled resident',1,none,yes,good,0.15122551767349418
+'no checking',24,'critical/other existing credit',buy_new_car,2022,'<100','1<=X<4',4,'female div/dep/mar',none,4,car,37,none,own,1,skilled,1,yes,yes,good,0.25599696784176235
+'no checking',18,'critical/other existing credit',buy_radio_tv,1098,'<100',unemployed,4,'female div/dep/mar',none,4,car,65,none,own,2,'unemp/unskilled non res',1,none,yes,good,0.11794543216005635
+'no checking',30,'critical/other existing credit',buy_radio_tv,4530,'<100','4<=X<7',4,'female div/dep/mar',none,4,car,26,none,rent,1,'high qualif/self emp/mgmt',1,yes,yes,good,0.3440844717348223
+'no checking',36,'critical/other existing credit',buy_new_car,6614,'<100','>=7',4,'male single',none,4,car,34,none,own,2,'high qualif/self emp/mgmt',1,yes,yes,good,0.24844780973335406
+'0<=X<200',12,'critical/other existing credit',buy_domestic_appliance,1424,'<100','4<=X<7',4,'male single',none,3,'life insurance',26,none,own,1,skilled,1,none,yes,good,0.34671570247899164
+'no checking',60,'existing paid',buy_new_car,6527,'no known savings','1<=X<4',4,'male single',none,4,'no known property',34,none,'for free',1,skilled,2,yes,yes,good,0.7914920600944706
+'no checking',24,'critical/other existing credit',buy_furniture_equipment,2028,'<100','4<=X<7',2,'male single',none,2,'life insurance',30,none,own,2,'unskilled resident',1,none,yes,good,0.07382824788335665
+'0<=X<200',24,'existing paid',buy_furniture_equipment,3069,'100<=X<500','>=7',4,'male single',none,4,'no known property',30,none,'for free',1,skilled,1,none,yes,good,0.5404052953820839
+'0<=X<200',24,'existing paid',buy_used_car,12579,'<100','>=7',4,'female div/dep/mar',none,2,'no known property',44,none,'for free',1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.5706682128052148
+'no checking',24,'existing paid',buy_furniture_equipment,3972,'<100','4<=X<7',2,'female div/dep/mar',none,4,'life insurance',25,none,rent,1,skilled,1,yes,yes,good,0.3207636382750238
+'0<=X<200',48,'all paid',buy_new_car,12169,'no known savings',unemployed,4,'male single','co applicant',4,'no known property',36,none,'for free',1,'high qualif/self emp/mgmt',1,yes,yes,good,0.9748483231272705
+'<0',12,'delayed previously',buy_new_car,1344,'<100','1<=X<4',4,'male single',none,2,'real estate',43,none,own,2,'unskilled resident',2,none,yes,good,0.5309719117869147
+'0<=X<200',72,'existing paid',buy_radio_tv,5595,'100<=X<500','1<=X<4',2,'male mar/wid',none,2,car,24,none,own,1,skilled,1,none,yes,bad,0.688453148394794
+'no checking',12,'critical/other existing credit',education,701,'<100','1<=X<4',4,'male single',none,2,car,32,none,own,2,skilled,1,none,yes,good,0.10552821012751958
+'<0',12,'critical/other existing credit',buy_new_car,3499,'<100','1<=X<4',3,'female div/dep/mar','co applicant',2,'real estate',29,none,own,2,skilled,1,none,yes,bad,0.48907132428028927
+'>=200',12,'existing paid',buy_new_car,1330,'<100','<1',4,'male single',none,1,'real estate',26,none,own,1,skilled,1,none,yes,good,0.40889133917862663
+'0<=X<200',48,'no credits/all paid',business,12204,'no known savings','1<=X<4',2,'male single',none,2,car,48,bank,own,1,'high qualif/self emp/mgmt',1,yes,yes,good,0.942022700729672
+'0<=X<200',8,'existing paid',buy_furniture_equipment,1237,'<100','1<=X<4',3,'female div/dep/mar',none,4,'real estate',24,none,own,1,skilled,1,none,yes,bad,0.4225745926635313
+'<0',48,'existing paid',buy_used_car,10297,'<100','4<=X<7',4,'male single',none,4,'no known property',39,stores,'for free',3,skilled,2,yes,yes,bad,0.8540689857879389
+'no checking',9,'existing paid',buy_domestic_appliance,1236,'<100','<1',1,'female div/dep/mar',none,4,'real estate',23,none,rent,1,skilled,1,yes,yes,good,0.11996682245508618
+'0<=X<200',48,'existing paid',buy_new_car,8487,'no known savings','4<=X<7',1,'female div/dep/mar',none,2,car,24,none,own,1,skilled,1,none,yes,good,0.7220359217982033
+'<0',24,'delayed previously',buy_new_car,4870,'<100','1<=X<4',3,'male single',none,4,'no known property',53,none,'for free',2,skilled,2,none,yes,bad,0.7269503977742614
+'0<=X<200',12,'no credits/all paid',retraining,1410,'<100','1<=X<4',2,'male single',none,2,'real estate',31,none,own,1,'unskilled resident',1,yes,yes,good,0.38579364090925033
+'no checking',24,'existing paid',buy_radio_tv,3621,'100<=X<500','>=7',2,'male single',none,4,car,31,none,own,2,skilled,1,none,yes,bad,0.05467025768869543
+'0<=X<200',24,'existing paid',buy_radio_tv,2896,'100<=X<500','<1',2,'male single',none,1,car,29,none,own,1,skilled,1,none,yes,good,0.2862538390243966
+'<0',36,'critical/other existing credit',buy_furniture_equipment,2348,'<100','1<=X<4',3,'male mar/wid',none,2,'life insurance',46,none,own,2,skilled,1,yes,yes,good,0.5072234624527825
+'<0',15,'existing paid',buy_new_car,3959,'<100','1<=X<4',3,'female div/dep/mar',none,2,'life insurance',29,none,own,1,skilled,1,yes,yes,bad,0.7186264646487992
+'no checking',24,'existing paid',buy_new_car,1474,'100<=X<500','<1',4,'male mar/wid',none,3,'real estate',33,none,own,1,skilled,1,yes,yes,good,0.2019347964210511
+'no checking',24,'existing paid',buy_new_car,1469,'100<=X<500','>=7',4,'male mar/wid',none,4,'real estate',41,none,rent,1,'unskilled resident',1,none,yes,good,0.14358688016225626
+'<0',12,'existing paid',buy_furniture_equipment,652,'<100','>=7',4,'female div/dep/mar',none,4,'life insurance',24,none,rent,1,skilled,1,none,yes,good,0.6836898563443254
+'no checking',24,'existing paid',buy_used_car,2603,'>=1000','1<=X<4',2,'female div/dep/mar',none,4,car,28,none,rent,1,skilled,1,yes,yes,good,0.036892829870587854
+'no checking',9,'critical/other existing credit',buy_new_car,1224,'<100','1<=X<4',3,'male single',none,1,'real estate',30,none,own,2,skilled,1,none,yes,good,0.05900249992663623
+'0<=X<200',48,'delayed previously',business,6681,'no known savings','1<=X<4',4,'male single',none,4,'no known property',38,none,'for free',1,skilled,2,yes,yes,good,0.9094167051116133
+'no checking',18,'existing paid',buy_radio_tv,1126,'no known savings','<1',4,'female div/dep/mar',none,2,'real estate',21,none,rent,1,skilled,1,yes,yes,good,0.3197477147788659
+'<0',12,'no credits/all paid',buy_radio_tv,6199,'<100','1<=X<4',4,'male single',none,2,'life insurance',28,none,rent,2,skilled,1,yes,yes,bad,0.8684283217992215
+'>=200',24,'critical/other existing credit',buy_radio_tv,3148,'no known savings','1<=X<4',3,'male single',none,2,car,31,none,own,2,skilled,1,yes,yes,good,0.2531560188002303
+'no checking',6,'existing paid',buy_radio_tv,2108,'<100','4<=X<7',2,'male mar/wid',none,2,'real estate',29,none,rent,1,skilled,1,none,yes,good,0.048032647916682554
+'<0',18,'existing paid',buy_used_car,7511,'no known savings','>=7',1,'male single',none,4,'life insurance',51,none,'for free',1,skilled,2,yes,yes,bad,0.10432285699928814
+'no checking',6,'existing paid',buy_new_car,3518,'<100','1<=X<4',2,'male single',guarantor,3,'life insurance',26,none,rent,1,skilled,1,none,yes,good,0.15380443327623763
+'no checking',12,'all paid',retraining,3447,'500<=X<1000','1<=X<4',4,'female div/dep/mar',none,3,'real estate',35,none,own,1,'unskilled resident',2,none,yes,good,0.494551821975114
+'0<=X<200',12,'existing paid',repairs,639,'<100','1<=X<4',4,'male single',none,2,car,30,none,own,1,skilled,1,none,yes,bad,0.4167418494387776
+'no checking',36,'existing paid',buy_furniture_equipment,3349,'<100','1<=X<4',4,'female div/dep/mar',none,2,car,28,none,own,1,'high qualif/self emp/mgmt',1,yes,yes,bad,0.5088043310522454
+'0<=X<200',24,'critical/other existing credit',buy_radio_tv,1216,'100<=X<500','<1',4,'male single',none,4,'no known property',38,bank,own,2,skilled,2,none,yes,bad,0.6659077935159556
+'no checking',18,'critical/other existing credit',buy_furniture_equipment,1817,'<100','1<=X<4',4,'female div/dep/mar',none,2,'no known property',28,none,own,2,skilled,1,none,yes,good,0.32561564783955654
+'no checking',24,'critical/other existing credit',buy_new_car,2463,'100<=X<500','4<=X<7',4,'male mar/wid',none,3,'life insurance',27,none,own,2,skilled,1,yes,yes,good,0.1714067027596719
+'<0',18,'delayed previously',education,8471,'no known savings','1<=X<4',1,'female div/dep/mar',none,2,car,23,none,rent,2,skilled,1,yes,yes,good,0.7433948825736894
+'no checking',12,'existing paid',buy_used_car,1413,'>=1000','4<=X<7',3,'male single',none,2,'life insurance',55,none,own,1,skilled,1,none,no,good,0.002593773187493576
