@@ -1,3 +1,0 @@
-Use chi2 to determine which categorical features to transform, whether through OHC or frequency or mean or whatever.
-Drop the rest of the categorical features
-Use different scaling techniques for eahc model
