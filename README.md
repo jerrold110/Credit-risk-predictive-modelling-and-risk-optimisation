@@ -1,6 +1,7 @@
 # Credit risk predictive modelling and risk optimisation
 
-A hypothetical bank has to determine the risk of issuing credit to clients by modelling the probability of loan default and creating a risk model to the business. It then has to optimise profit earned through interest payments from new clients for a certain risk budget which varies from quarter to quarter.
+A hypothetical bank has to determine the risk of issuing credit to clients by modelling the probability of loan default and creating a risk model. It then has to optimise profit earned for a certain risk level which varies from quarter to quarter.
+
 
 Project is defined and outlined in *Business objective.ipynb*
 
