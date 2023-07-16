@@ -30,7 +30,7 @@ Project is defined and outlined in *Business objective.ipynb*
 - Evaluation of performance metrics: Acc, Recall, Area under ROC
 - Models tested: Logistic Reg, Random For, SGD, Gradient Boost, Adaboost(decision Tree), Adaboost(Log Reg), Gaussian process, SVM, XGBoost
 
-### Part 5 - Performance tuning of best models
+### Part 5 - Performance tuning of best models (Adaboost and Logreg)
 - Preparation of data (train data in split had to be increased slightly because of underfitting)
 - Determining optimal number of features to use with analysis of AUC and number of features
 - Tuning parameters with best selected data/model/grid scoring function
